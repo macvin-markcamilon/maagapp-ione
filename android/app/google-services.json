@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1064542876687",
+    "project_id": "magapp-ione",
+    "storage_bucket": "magapp-ione.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064542876687:android:7a6d653aafd80da6639f7a",
+        "android_client_info": {
+          "package_name": "com.ione.maagapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064542876687-6qkm5o41cnsl9u9n7lkv12g963kdj31e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB9E6N6lPfAsIC4Jp41ZFkg9JiO1xVeWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064542876687-6qkm5o41cnsl9u9n7lkv12g963kdj31e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064542876687-hvptpdru1n70e104g8gh7nim1hmerqs0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ione.maagapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
